@@ -32,7 +32,7 @@ Custom Go backend for multiplayer Godot projects.
 Built as a base line for any games I choose to make in the future that 
 will need live services or applications. Just because its Godot doesnt mean you ONLY can make games!
 
-✅ Handles position changes, messaging, and object spawning.
+✅ Handles position changes, messaging, and object spawning.  
 ✅ Built on Go's net/http and `gorilla/websocket`  
 ✅ Lightweight, scalable architecture
 
