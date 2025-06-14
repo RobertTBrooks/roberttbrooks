@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Robert Brooks
 
 I'm a self-taught full-stack developer and systems tinkerer building real-time apps, 
