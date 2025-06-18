@@ -7,19 +7,26 @@ multiplayer experiences, and clean backend architecture with Go and JavaScript.
 
 ### 🧰 Tech Stack
 
-- **Languages**: Go, JavaScript, TypeScript, Python, C#, Java, C++
-- **Web**: React, HTML, CSS, Node.js, Express
-- **Backend**: Go (net/http, WebSockets), PostgreSQL, Redis, Firebase
-- **Dev Tools**: Git, GitHub Actions, Docker, Linux CLI, WSL
-- **Game Dev**: Godot 4, GDScript, custom Go WebSocket servers
-
+- **Languages**:
+  
+      Go(beginner-intermediate),
+      JavaScript( intermediate-advanced ),
+      TypeScript( intermediate ),
+      Python(intermediate-advanced),
+      C# ( beginner ),      
+      C++( beginner ),
+  
+- **Web**: React, HTML, CSS, Node.js, 
+- **Backend**: Go (net/http, WebSockets), MySQL, SQLite
+- **Dev Tools**: Git, GitHub Actions, Linux CLI, WSL2
+- **Game Dev**: Godot 4, GDScript, JavaScript cooming soon (lol)
 ---
 
 ### 🚀 Featured Projects
 
 #### 🗨️ [Chatatoe.com](https://chatatoe.com)
 A real-time chat app inspired by Discord  
-Tech: React + Go + WebSockets  
+Tech: next.js + WebSockets  
 
 ✅ Authentication  
 ✅ Real-time messaging  
@@ -51,9 +58,9 @@ will need live services or applications. Just because its Godot doesnt mean you 
 ---
 
 ### ⚡ Fun Stuff
-- Built a multiplayer test server before finishing my first 2D game  
-- Always chasing that “one more feature” feeling  
-- Trying to become a backend wizard while still loving game dev
+- Passionate about building 2D games for fun — currently setting up a Go server for Godot to support live service features (coming soon!)  
+- Always excited to take on new projects and bring ideas to life!   
+- Aspiring full-stack developer with a strong love for game development  
 
 ---
 
